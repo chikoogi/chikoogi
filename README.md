@@ -22,7 +22,6 @@
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flowbite-1A41DB?style=flat&logo=flowbite&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=react-query&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=react-hook-form&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Zustand-5D4924?style=flat&logo=zustand&logoColor=white"/></span><br/>
 - Backend : 
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
