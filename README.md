@@ -4,8 +4,8 @@
 - ehthfdhkd@gmail.com
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikoogi)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikoogi&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikoogi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikoogi&layout=compact)
   
 
 ## 🔨 Technology Stacks
