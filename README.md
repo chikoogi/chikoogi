@@ -20,7 +20,7 @@
 <span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Flowbite-1A41DB?style=flat&logo=flowbite&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MobX-1A41DB?style=flat&logo=mobx&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=react-query&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Zustand-5D4924?style=flat&logo=zustand&logoColor=white"/></span><br/>
 - Backend : 
