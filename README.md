@@ -4,7 +4,6 @@
 - ehthfdhkd@gmail.com
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikoogi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikoogi&layout=compact)
   
 
@@ -18,6 +17,7 @@
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=recoil&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flowbite-1A41DB?style=flat&logo=flowbite&logoColor=white"/></span>
